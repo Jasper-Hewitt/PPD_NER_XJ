@@ -1,0 +1,12 @@
+# Defining the values
+TP = 188  # True Positives
+FP = 17   # False Positives
+FN = 12   # False Negatives (200 actual - 188 identified)
+
+# Calculating Precision, Recall, and F1-Score
+precision = TP / (TP + FP)
+recall = TP / (TP + FN)
+f1_score = 2 * (precision * recall) / (precision + recall)
+
+precision, recall, f1_score
+(0.9170731707317074, 0.94, 0.9283950617283951)
