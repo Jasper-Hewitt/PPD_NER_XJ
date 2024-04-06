@@ -1,6 +1,1 @@
-Xinjiang
-Urumqi
-Qiemo County
-Taklamakan Desert
-Tianshan Mountains 
-Ili Kazak, Kizilsu Kirgiz, Kashgar, Hotan, Aksu
+keywords = ['Xinjiang', 'Urumqi', 'Qiemo', 'Taklamakan', 'Tianshan Mountains', 'Ili Kazak', 'Kizilsu Kirgiz', 'Kashgar', 'Hotan', 'Aksu', 'Turpan', 'Karamay', 'Tacheng', 'Tarbagatay', 'Altay', 'Korla', 'Yining', 'Kizilsu Kyrgyz', 'Dushanzi', 'Moyu', 'Tashkurgan', 'Shufu']
